@@ -13,11 +13,14 @@
 
 ## 📱 Screenshots
 
-| Login Screen | Home Dashboard | Security Details | Settings (Dark Mode) |
+| Login Screen | Login (Dark Mode) | Register Screen | Register (Dark Mode) |
 |:---:|:---:|:---:|:---:|
-| <img src="path/to/screenshot_login.png" width="200" /> | <img src="path/to/screenshot_home.png" width="200" /> | <img src="path/to/screenshot_details.png" width="200" /> | <img src="path/to/screenshot_settings.png" width="200" /> |
-
-*(Catatan: Ganti `path/to/screenshot_*.png` dengan lokasi gambar screenshot Anda yang sebenarnya jika diupload ke repository)*
+| <img src="https://raw.githubusercontent.com/Raihhazmi/P7_Modern_Ui_230104040079_plus/master/Screenshots/login%20Screen.jpeg" width="200" /> | <img src="https://raw.githubusercontent.com/Raihhazmi/P7_Modern_Ui_230104040079_plus/master/Screenshots/login%20Screen%20dark%20mode.jpeg" width="200" /> | <img src="https://raw.githubusercontent.com/Raihhazmi/P7_Modern_Ui_230104040079_plus/master/Screenshots/regisscreen.jpeg" width="200" /> | <img src="https://raw.githubusercontent.com/Raihhazmi/P7_Modern_Ui_230104040079_plus/master/Screenshots/regisscreen%20drk%20mode.jpg" width="200" /> |
+| Home Screen | Home (Dark Mode) | Security Details | Security (Dark Mode) |
+| <img src="https://raw.githubusercontent.com/Raihhazmi/P7_Modern_Ui_230104040079_plus/master/Screenshots/homescreen.jpeg" width="200" /> |  <img src="https://raw.githubusercontent.com/Raihhazmi/P7_Modern_Ui_230104040079_plus/master/Screenshots/homescreen%20dark%20mode.jpeg" width="200" /> |   <img src="https://raw.githubusercontent.com/Raihhazmi/P7_Modern_Ui_230104040079_plus/master/Screenshots/securittydetailscren.jpeg" width="200" /> | <img src="https://raw.githubusercontent.com/Raihhazmi/P7_Modern_Ui_230104040079_plus/master/Screenshots/securittydetail%20screen%20dark%20mode.jpg" width="200" /> |
+| Settings Screen | Settings (Dark Mode) | Bio Scan | – |
+| <img src="https://raw.githubusercontent.com/Raihhazmi/P7_Modern_Ui_230104040079_plus/master/Screenshots/settingscreen.jpeg" width="200" /> | <img src="https://raw.githubusercontent.com/Raihhazmi/P7_Modern_Ui_230104040079_plus/master/Screenshots/setting%20screen%20drk%20mode.jpeg" width="200" /> |  <img src="https://raw.githubusercontent.com/Raihhazmi/P7_Modern_Ui_230104040079_plus/master/Screenshots/bio%20scan.jpeg" width="200" /> |    |
+  
 
 ---
 
